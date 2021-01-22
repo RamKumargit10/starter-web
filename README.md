@@ -1,7 +1,7 @@
 ##Starter web project
 
 this is a simple webproject
-rebase
+rebase,from myfeature branch too
 ##introduction
 
 bla bla bla
