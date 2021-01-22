@@ -2,7 +2,7 @@
 
 ##introduction
 
-## puprpose
+##purpose
 
 ##Deployment
 
