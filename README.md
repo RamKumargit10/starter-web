@@ -7,3 +7,5 @@ training
 ##Deployment
 
 ##How to Contribute
+##how to code
+##contribute
